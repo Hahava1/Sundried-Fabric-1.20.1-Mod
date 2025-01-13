@@ -1,0 +1,10 @@
+{
+  "item.sundried.metal_scrap": "Metal Scrap",
+  "item.sundried.iron_gear": "Iron Gear",
+  "item.sundried.steel_drill": "Steel Drill",
+  "item.sundried.sturdy_brick": "Sturdy Brick",
+
+  "block.sundried.asphalt_road": "Asphalt Road",
+  "block.sundried.cracked_bricks": "Cracked Bricks",
+  "itemgroup.sundried": "Sundried"
+}

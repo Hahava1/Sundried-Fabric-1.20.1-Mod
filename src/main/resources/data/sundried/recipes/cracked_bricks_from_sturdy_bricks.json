@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "sundried:cracked_bricks"
+    }
+  ],
+  "result": {
+    "item": "sundried:sturdy_brick",
+    "count": 3
+  }
+}
