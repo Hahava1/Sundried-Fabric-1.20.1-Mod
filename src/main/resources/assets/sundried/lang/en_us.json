@@ -4,7 +4,11 @@
   "item.sundried.steel_drill": "Steel Drill",
   "item.sundried.sturdy_brick": "Sturdy Brick",
 
+  "item.sundried.canned_meat": "Canned Meat",
+
   "block.sundried.asphalt_road": "Asphalt Road",
   "block.sundried.cracked_bricks": "Cracked Bricks",
+  "block.sundried.brimstone_ore": "Brimstone Ore",
+
   "itemgroup.sundried": "Sundried"
 }

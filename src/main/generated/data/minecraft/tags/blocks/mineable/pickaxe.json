@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "sundried:brimstone_ore",
+    "sundried:asphalt_road",
+    "sundried:cracked_bricks"
+  ]
+}

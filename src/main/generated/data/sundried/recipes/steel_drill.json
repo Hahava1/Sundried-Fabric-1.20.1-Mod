@@ -1,23 +1,24 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    " I ",
-    "GIG",
-    "MMM"
-  ],
+  "category": "equipment",
   "key": {
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
     "G": {
       "item": "sundried:iron_gear"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
     },
     "M": {
       "item": "sundried:metal_scrap"
     }
   },
+  "pattern": [
+    " I ",
+    "GIG",
+    "MMM"
+  ],
   "result": {
     "item": "sundried:steel_drill"
-  }
+  },
+  "show_notification": true
 }

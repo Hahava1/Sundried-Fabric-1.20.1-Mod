@@ -1,0 +1,5 @@
+// 1.20.1	2025-01-18T23:51:19.6764839	Sundried/Tags for minecraft:block
+73032f0c133769e247d35e83ba60900ebb2d858b data\minecraft\tags\blocks\needs_iron_tool.json
+224653dab76f1c3fe491929b6bbdf09b00029ca7 data\minecraft\tags\blocks\needs_stone_tool.json
+07cf21ec78dc56fdc0fb4e0119d9d03172534a28 data\minecraft\tags\blocks\mineable\pickaxe.json
+e00492e40bf0c3f5f33c81e6a0143cc9a965b48a data\minecraft\tags\blocks\needs_diamond_tool.json

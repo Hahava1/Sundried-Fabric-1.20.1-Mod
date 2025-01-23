@@ -22,6 +22,9 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.ASPHALT);
                         entries.add(ModBlocks.CRACKED_BRICKS);
+                        entries.add(ModBlocks.BRIMSTONE_ORE);
+
+                        entries.add(ModItems.CANNED_MEAT);
 
                         entries.add(ModItems.STEEL_DRILL);
                     }).build());
